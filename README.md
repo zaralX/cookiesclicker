@@ -1,8 +1,10 @@
-# cookiesclicker
+# cookieclicker
 1.16.5 - PAPER
 
-download plugin
+download ProtocolLIB
 
-drop he in `plugins` folder
+download CookieClicker
+
+drop plugins in `plugins` folder
 
 restart **2 times**
